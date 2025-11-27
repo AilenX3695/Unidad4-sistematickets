@@ -14,7 +14,7 @@ Navegador moderno (Chrome, Edge, Firefox).
 1. Abrir `index.html` en el navegador (doble clic) o servir con `Live Server` en VSCode.
 
 ## Publicación (GitHub Pages)
-Se publica la rama `gh-pages`. URL: `https://<tu-usuario>.github.io/<repo>` (después de push).
+Se publica la rama `gh-pages`. URL: `https://AilenX3695.github.io/Unidad4-sistematickets` (después de push).
 
 ## Funcionalidades
 - Formulario con validación en UI.
