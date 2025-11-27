@@ -1,6 +1,6 @@
 /* css/styles.css */
 .list-group-item.urgente {
-  border-left: 6px solid #dc3545; /* rojo */
+  border-left: 6px solid #ff021b; /* rojo */
   background-color: #fff0f0;
 }
 .read {
