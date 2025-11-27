@@ -1,0 +1,13 @@
+/* css/styles.css */
+.list-group-item.urgente {
+  border-left: 6px solid #dc3545; /* rojo */
+  background-color: #fff0f0;
+}
+.read {
+  opacity: 0.6;
+  text-decoration: line-through;
+}
+.ticket-meta {
+  font-size: 0.85rem;
+  color: #666;
+}
