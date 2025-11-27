@@ -31,6 +31,7 @@ class Message {
     `;
   }
 
+  
   summary() {
     return `${this.name} - ${this.priority} - ${this.text.slice(0, 40)}...`;
   }
