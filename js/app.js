@@ -160,12 +160,12 @@ form.addEventListener('submit', function(e){
 
   // ejemplo de control de flujo: switch para asignar clase o contador
   switch (msg.priority) {
-    case 'alta':
+    case 'Alta':
       // aquí podrías disparar una animación o notificación
       break;
-    case 'normal':
+    case 'Normal':
       break;
-    case 'baja':
+    case 'Baja':
       break;
     default:
       break;
